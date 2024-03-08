@@ -15,7 +15,7 @@ body {
 
 .resume-header {
     background-color: #1B365C;
-	color: black
+	color: white
 }
 
 .resume-main {
@@ -75,4 +75,14 @@ body {
 	height: 100%;
 	width:100%;
 	background: linear-gradient(to right,#247BA0 25%, #1B365C 25%);
+}
+.geologica- {
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0,
+    "SHRP" 0;
 }
