@@ -50,3 +50,29 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.languagebar {
+	color:#fffefc;
+	background-color:#247BA0;
+	position: absolute;
+	}
+
+.progressbar100 {
+	height:100%;
+	width:100%;
+	background: #247BA0;
+	}
+.progressbar75 {
+	height: 100%;
+	width:100%;
+	background: linear-gradient(to right, #247BA0 75%, #1B365C 75%);
+}
+.progressbar50{
+	height: 100%;
+	width:100%;
+	background: linear-gradient(to right, #247BA0 50%, #1B365C 50%);
+}
+.progressbar25{
+	height: 100%;
+	width:100%;
+	background: linear-gradient(to right,#247BA0 25%, #1B365C 25%);
+}
